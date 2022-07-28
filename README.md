@@ -1,8 +1,8 @@
 ### Oiii eu sou o Roberto Henrique, estudante de conteúdo de programação e tecnologia!👋
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=robertohdreis&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertohdreis&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=robertohdreis&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertohdreis&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -11,6 +11,7 @@
   <img align="center" alt="RobertoHdReis-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="RobertoHdReis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="RobertoHdReis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="RobertoHdReis-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="RobertoHdReis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="RobertoHdReis-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="RobertoHdReis-Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
