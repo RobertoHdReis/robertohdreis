@@ -1,4 +1,4 @@
-### Oiii eu sou o Roberto Henrique, estudante de conteúdo de programação e tecnologia!👋
+### Oiii eu sou o Roberto Henrique, Estudante de conteúdo de programação e tecnologia!👋
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=robertohdreis&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
