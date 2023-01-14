@@ -18,7 +18,6 @@
   <img align="center" alt="RobertoHdReis-Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="center" alt="RobertoHdReis-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="RobertoHdReis-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-    <img align="center" alt="RobertoHdReis-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sas/sas-original.svg">
 </div>
 
 ##
